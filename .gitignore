@@ -1,6 +1,8 @@
 .DS_Store
 __pycache__
 .venv/
+venv/
+mini_orchards/
 tmp/
 APP_DATA/
 dataset_tools/
