@@ -6,7 +6,7 @@ Mini-Orchards is a dataset created within authors' lab and consists of images of
 
 Mini-Orchards has 500 images that are divided into a train, validation, and test set. The train set contains 300 images, while the validation and test sets each have 100 images. The complete dataset has roughly 3000 apples that are annotated with bounding boxes.
 
-In the original images, too much of the surrounding environment is visible in the frame of the camera. Objects like the grid structure holding the apples can be seen in the images. Authors cropped the images to discard the irrelevant background section of the images and used these cropped images for authors' experiments. Fig. 5 shows an example of a cropped and uncropped image from the dataset. The cropped images have a resolution of 1920x576.
+In the original images, too much of the surrounding environment is visible in the frame of the camera. Objects like the grid structure holding the apples can be seen in the images. Authors cropped the images to discard the irrelevant background section of the images and used these cropped images for authors' experiments. Figure below shows an example of a cropped and uncropped image from the dataset. The cropped images have a resolution of 1920x576.
 
 <img src="https://github.com/dataset-ninja/mini-orchards/assets/123257559/c43aabb1-e813-4870-b48a-babf0aec907f" alt="image" width="800">
 
