@@ -1,6 +1,6 @@
 Dataset **Mini-Orchards** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/8/e/8r/Pm7gccHidppju97VN35kiUZpdApeSWbx11vRaGdkFd8nr88T79KLjXJQjCsL7goOb5361y1LJCymAmxvxRM5Ldek1qJ1vbwSUpBgWneD6rMkweIMSwIycLjduxcP.tar)
+ [Download](https://www.dropbox.com/scl/fi/wfim1cdihmwpxjwhzn1ux/mini-orchards-DatasetNinja.tar?rlkey=1hsh51z2jra5i85b9iy5vb0dc&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
